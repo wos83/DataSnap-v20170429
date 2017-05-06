@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/04/29 10:21:23.000.756,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/29 10:21:27.000.496,=C:\Users\User\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2017/04/29 10:21:29.000.671,=C:\Users\User\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2017/04/29 10:30:10.000.341,C:\Users\User\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example10\Server\uSC.dfm</Transaction>
+    <Transaction>2017/04/29 10:30:10.000.341,C:\Users\User\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example10\Server\uSC.pas</Transaction>
+    <Transaction>2017/04/29 10:30:54.000.615,C:\Users\User\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example10\Server\uSM.dfm</Transaction>
+    <Transaction>2017/04/29 10:30:54.000.615,C:\Users\User\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example10\Server\uSM.pas</Transaction>
+    <Transaction>2017/04/29 10:31:38.000.281,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example10\Server\uFrmServer.pas</Transaction>
+    <Transaction>2017/04/29 10:31:38.000.281,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example10\Server\uFrmServer.dfm</Transaction>
+    <Transaction>2017/04/29 10:32:23.000.915,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example10\Server\AppServer.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/04/08 17:17:06.000.899,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2017/04/08 17:17:07.000.552,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017/04/08 17:17:07.000.967,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\js\base64-min.js</Transaction>
+    <Transaction>2017/04/08 17:17:07.000.900,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\js\callbackframework.js</Transaction>
+    <Transaction>2017/04/08 17:17:07.000.933,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\js\serverfunctions.js</Transaction>
+    <Transaction>2017/04/08 17:17:07.000.843,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2017/04/08 17:17:07.000.206,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2017/04/08 17:17:07.000.821,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\js\base64.js</Transaction>
+    <Transaction>2017/04/08 17:17:07.000.872,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\js\json2.js</Transaction>
+    <Transaction>2017/04/08 17:17:08.000.055,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2017/04/08 17:17:08.000.710,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\images\expand.png</Transaction>
+    <Transaction>2017/04/08 17:17:08.000.622,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\images\collapse.png</Transaction>
+    <Transaction>2017/04/08 17:17:08.000.375,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2017/04/08 17:17:08.000.224,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2017/04/08 17:17:08.000.010,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\js\json2-min.js</Transaction>
+    <Transaction>2017/04/08 17:17:08.000.101,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\js\callbackframework-min.js</Transaction>
+    <Transaction>2017/04/08 17:17:08.000.307,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\css\main.css</Transaction>
+    <Transaction>2017/04/08 17:17:08.000.168,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\js\connection.js</Transaction>
+    <Transaction>2017/04/08 17:17:08.000.451,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\templates\reversestring.html</Transaction>
+    <Transaction>2017/04/08 17:17:08.000.526,=C:\Users\User\Documents\Embarcadero\Studio\Projects\TreinamentoDataSnap\Example08\templates\serverfunctioninvoker.html</Transaction>
+  </Transactions>
+</BorlandProject>
